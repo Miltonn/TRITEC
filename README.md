@@ -1,0 +1,2 @@
+# TRITEC
+todo de tritec
